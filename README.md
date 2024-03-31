@@ -1,4 +1,4 @@
-# calculatorapp
+# Calculator App
 Flask Calculator App
 This is a simple calculator web application built using Flask, a lightweight web framework for Python. The calculator app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers.
 
